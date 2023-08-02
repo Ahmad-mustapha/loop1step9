@@ -1,7 +1,4 @@
 # loop1step9
-
-
-# loop1step9
 *An implementation of loop1step9 clone with html and css*
 ## Prequisite
 - Your browser version should be up to date for better experience
